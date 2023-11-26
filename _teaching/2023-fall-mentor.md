@@ -4,7 +4,7 @@ collection: teaching
 type: "Mentoring"
 permalink: /teaching/2023-fall-mentor
 venue: "Department of Computer Science and Information Engineering, National Taiwan University"
-date: Jun. 2023 - Present
+date: 2023-06-01
 location: "Taipei, Taiwan"
 ---
 

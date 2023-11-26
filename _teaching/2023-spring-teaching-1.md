@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Department of Computer Science and Information Engineering, National Taiwan University"
-date: Spring 2023
+date: 2023-02-01
 location: "Taipei, Taiwan"
 ---
 
