@@ -17,10 +17,10 @@ My research is situated at the nexus of computer science and medicine, focusing 
 
 ## Publications
 
-- **Ho, M. Y.**\*, Wu, M. S., & Wu, C. M. (2022). [Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29). In *European Conference on Computer Vision* (***ECCV' 22***) (pp. 490-505). Cham: Springer Nature Switzerland. (\* corresponding author) [[code](https://github.com/Kaminyou/URUST)] [[page](https://kaminyou.com/URUST/)]
+- **Ho, M. Y.**\*, Wu, M. S., & Wu, C. M. (2022). Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization. In *European Conference on Computer Vision* (***ECCV' 22***) (pp. 490-505). Cham: Springer Nature Switzerland. (\* corresponding author) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29)] [[code](https://github.com/Kaminyou/URUST)] [[page](https://kaminyou.com/URUST/)]
 
-- Huang, Y. W., Lin, O. A., Su, B. H., Hsieh, P. H., **Ho, M. Y.**, Kuo, T. C., & Tseng, Y. J. (2022). [Taiwan Controlled Substances Database](https://www.sciencedirect.com/science/article/pii/S0929664622002534). *Journal of the Formosan Medical Association*, 121(12), 2649-2652.
+- Huang, Y. W., Lin, O. A., Su, B. H., Hsieh, P. H., **Ho, M. Y.**, Kuo, T. C., & Tseng, Y. J. (2022). Taiwan Controlled Substances Database. *Journal of the Formosan Medical Association*, 121(12), 2649-2652. [[paper](https://www.sciencedirect.com/science/article/pii/S0929664622002534)]
 
-- Liu, L. C.\*, **Ho, M. Y.**\*, Su, B. H., Wang, S. Y., Hsu, M. T., & Tseng, Y. J. (2021). [PanGPCR: predictions for multiple targets, repurposing and side effects](https://academic.oup.com/bioinformatics/article/37/8/1184/5904266?login=false). *Bioinformatics*, 37(8), 1184-1186. (* equal contribution)
+- Liu, L. C.\*, **Ho, M. Y.**\*, Su, B. H., Wang, S. Y., Hsu, M. T., & Tseng, Y. J. (2021). PanGPCR: predictions for multiple targets, repurposing and side effects. *Bioinformatics*, 37(8), 1184-1186. (* equal contribution) [[paper](https://academic.oup.com/bioinformatics/article/37/8/1184/5904266)]
 
-- **Ho, M. Y.**\*, Tsai, Y. S., Wang, J. J., & Wang, T. W. (2020). [Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system](./files/2020_eid.pdf). *Taiwan Academic Network (TANET)* (pp. 1264-1269). (* corresponding author)
+- **Ho, M. Y.**\*, Tsai, Y. S., Wang, J. J., & Wang, T. W. (2020). Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system. *Taiwan Academic Network (TANET)* (pp. 1264-1269). (* corresponding author) [[paper](./files/2020_eid.pdf)]
