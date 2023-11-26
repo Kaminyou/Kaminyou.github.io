@@ -21,7 +21,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://github.com/Kaminyou/URUST/blob/main/imgs/URUST_anime.gif" width="300"/> </td>
+<img src="https://github.com/Kaminyou/URUST/blob/main/imgs/URUST_anime.gif?raw=true" width="300"/> </td>
   
  
 <td style="border-collapse: collapse; border: none;">
