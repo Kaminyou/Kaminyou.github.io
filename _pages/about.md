@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I serve as a research assistant in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University and hold a role as a senior machine learning engineer at [aetherAI](https://www.aetherai.com/). I received my M.S. degree in Bioinformatics at National Taiwan University, advised by Prof. Yufeng Jane Tseng. Prior to that, I obtained my Pharm.D. degree in Pharmacy from [National Cheng Kung University](https://www.nju.edu.cn) in 2019.
+I serve as a research assistant in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University and hold a role as a senior machine learning engineer at [aetherAI](https://www.aetherai.com/). I received my M.S. degree in Bioinformatics at National Taiwan University, advised by Prof. Yufeng Jane Tseng. Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University in 2019.
 
 My research interests focus on 2D/3D computer vision and its application in healthcare. I aim to enhance the **scalability of conventional computer vision algorithms** and explore **multimodal** and **semi-supervised learning** approaches in the digital health domain.
 
@@ -21,7 +21,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="https://github.com/Kaminyou/URUST/blob/main/imgs/URUST_anime.gif?raw=true" width="300"/> </td>
+<img src="./files/urust-teaser.gif" width="300"/> </td>
   
  
 <td style="border-collapse: collapse; border: none;">
