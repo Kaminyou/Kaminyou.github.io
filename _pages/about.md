@@ -76,7 +76,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 </table>
 
 ### Professional service
-- Conference Reviewer:
+- Conference Reviewer
   - CVPR: 2023, 2024
 - Journal Reviewer
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
