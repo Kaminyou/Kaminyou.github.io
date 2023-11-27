@@ -27,7 +27,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;">
 <b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization.</b>
 <br>
-<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <b>ECCV</b>, 2022. (* corresponding author)
+<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <b>ECCV</b>, 2022, 490-505. (* corresponding author)
 <br>
 <span><a href="https://arxiv.org/abs/2208.10730">Paper</a></span>, 
 <span><a href="https://kaminyou.com/URUST/">Project page</a></span>, 
@@ -42,7 +42,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;">
 <b>Taiwan Controlled Substances Database.</b>
 <br>
-Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, Tien-Chueh Kuo, Yufeng Jane Tseng. <b>Journal of the Formosan Medical Association</b>, 121(12), 2649-2652.
+Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, Tien-Chueh Kuo, Yufeng Jane Tseng. <b>Journal of the Formosan Medical Association</b>, 2022, 121.12: 2649-2652.
 <br>
 <span><a href="https://www.sciencedirect.com/science/article/pii/S0929664622002534">Paper</a></span>
 </td>
@@ -55,7 +55,7 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 <td style="border-collapse: collapse; border: none;">
 <b>PanGPCR: predictions for multiple targets, repurposing and side effects.</b>
 <br>
-Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng. <b>Bioinformatics</b>, 37(8), 1184-1186. (* equal contribution) 
+Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng. <b>Bioinformatics</b>, 2021, 37.8: 1184-1186. (* equal contribution) 
 <br>
 <span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>
 </td>
@@ -67,7 +67,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 <td style="border-collapse: collapse; border: none;">
 <b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system.</b>
 <br>
-<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang. <b>TANET</b>, 2020. (* corresponding author)
+<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang. <b>TANET</b>, 2020, 1264-1269. (* corresponding author)
 <br>
 <span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>
 </td>
