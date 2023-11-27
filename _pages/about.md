@@ -35,6 +35,44 @@ My research interests focus on 2D/3D computer vision and its application in heal
 </td>
 </tr> 
 
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="./files/tcsd-teaser.png" width="300"/> </td>
+<td style="border-collapse: collapse; border: none;">
+<b>Taiwan Controlled Substances Database.</b>
+<br>
+Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, Tien-Chueh Kuo, Yufeng Jane Tseng. <b>Journal of the Formosan Medical Association</b>, 121(12), 2649-2652.
+<br>
+<span><a href="https://www.sciencedirect.com/science/article/pii/S0929664622002534">Paper</a></span>
+</td>
+</tr>
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="./files/gpcr-teaser.png" width="300"/> </td>
+<td style="border-collapse: collapse; border: none;">
+<b>PanGPCR: predictions for multiple targets, repurposing and side effects.</b>
+<br>
+Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng. <b>Bioinformatics</b>, 37(8), 1184-1186. (* equal contribution) 
+<br>
+<span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>
+</td>
+</tr> 
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="./files/eid-teaser.png" width="300"/> </td>
+<td style="border-collapse: collapse; border: none;">
+<b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system.</b>
+<br>
+<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang. <b>TANET</b>, 2020. (* corresponding author)
+<br>
+<span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>
+</td>
+</tr> 
+
 <!-- - **Ho, M. Y.**\*, Wu, M. S., & Wu, C. M. (2022). Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization. In *European Conference on Computer Vision* (***ECCV' 22***) (pp. 490-505). Cham: Springer Nature Switzerland. (\* corresponding author) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29)] [[code](https://github.com/Kaminyou/URUST)] [[page](https://kaminyou.com/URUST/)]
 
 - Huang, Y. W., Lin, O. A., Su, B. H., Hsieh, P. H., **Ho, M. Y.**, Kuo, T. C., & Tseng, Y. J. (2022). Taiwan Controlled Substances Database. *Journal of the Formosan Medical Association*, 121(12), 2649-2652. [[paper](https://www.sciencedirect.com/science/article/pii/S0929664622002534)]
