@@ -21,6 +21,24 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
+<img src="./files/pathoopengait-teaser.png" width="300"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait.</b>
+<br>
+<b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng. <i><b>IEEE Journal of Biomedical and Health Informatics</b></i>, Accepted on Dec. 4 2023
+<br>
+<span><a href="">Paper (pending)</a></span>, 
+<span><a href="https://github.com/Kaminyou/Gait-study-semi-turn-time">Code (model)</a></span>, 
+<span><a href="https://github.com/Kaminyou/PathoOpenGait">Code (system)</a></span>
+<span><a href="https://pathoopengait.cmdm.tw/">Deployment</a></span>
+</td>
+</tr> 
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
 <img src="./files/urust-teaser.gif" width="300"/> </td>
   
  
