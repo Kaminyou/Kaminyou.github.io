@@ -29,9 +29,9 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <br>
 <b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng. <i><b>IEEE Journal of Biomedical and Health Informatics</b></i>, Accepted on Dec. 4 2023
 <br>
-<span><a href="">Paper (pending)</a></span>, 
+<span><a href="">Paper</a></span>, 
 <span><a href="https://github.com/Kaminyou/Gait-study-semi-turn-time">Code (model)</a></span>, 
-<span><a href="https://github.com/Kaminyou/PathoOpenGait">Code (system)</a></span>
+<span><a href="https://github.com/Kaminyou/PathoOpenGait/tree/main/backend/algorithms/gait_basic">Code (system)</a></span>,
 <span><a href="https://pathoopengait.cmdm.tw/">Deployment</a></span>
 </td>
 </tr> 
