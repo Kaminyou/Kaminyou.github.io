@@ -76,6 +76,7 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng. <i><b>Bioinformatics</b></i>, 2021, 37.8: 1184-1186. (* equal contribution) 
 <br>
 <span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>
+<span><a href="https://gpcrpanel.cmdm.tw/index.html">Deployment</a></span>
 </td>
 </tr> 
 
