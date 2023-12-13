@@ -47,7 +47,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <br>
 <b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <i><b>ECCV</b></i>, 2022, 490-505. (* corresponding author)
 <br>
-<span><a href="https://arxiv.org/abs/2208.10730">Paper</a></span>, 
+<span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span>, 
 <span><a href="https://kaminyou.com/URUST/">Project page</a></span>, 
 <span><a href="https://github.com/Kaminyou/URUST">Code</a></span>
 </td>
