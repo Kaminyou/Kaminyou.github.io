@@ -21,6 +21,24 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
+<img src="./files/fasteval-teaser.png" width="300"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>FastEval Parkinsonism: An instant deep learning–assisted video-based online system to automatically evaluate parkinsonian motor symptom using finger tapping.</b>
+<br>
+Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, and Yufeng Jane Tseng. <i><b>npj Digital Medicine</b></i>, Accepted on Jan. 6 2024
+<br>
+<span><a href="">Paper</a></span>,
+<span><a href="">Code (system)</a></span>,
+<span><a href="">Deployment</a></span>
+</td>
+</tr> 
+
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
 <img src="./files/pathoopengait-teaser.png" width="300"/> </td>
   
  
