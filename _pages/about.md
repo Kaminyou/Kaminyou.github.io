@@ -40,14 +40,11 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="./files/pathoopengait-teaser.png" width="300"/> </td>
-  
- 
+
 <td style="border-collapse: collapse; border: none;">
 <b>Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait.</b>
 <br>
-<b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng. <i><b>IEEE Journal of Biomedical and Health Informatics</b></i>, Accepted on Dec. 4 2023
-<b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng. <i><b>IEEE journal of biomedical and health informatics, 28(2), 1066–1077</b></i>.
-
+<b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng. 2024. <i><b>IEEE journal of biomedical and health informatics, 28(2), 1066–1077</b></i>
 <br>
 <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10349936">Paper</a></span>, 
 <span><a href="https://github.com/Kaminyou/PathoOpenGait/tree/main/backend/algorithms/gait_basic">Code (model)</a></span>, 
