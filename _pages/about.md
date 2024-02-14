@@ -28,9 +28,9 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <br>
 Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, and Yufeng Jane Tseng. <i><b>npj Digital Medicine</b></i>, 2024, 7(1), 1-13.
 <br>
-<span><a href="">Paper</a></span>,
-<span><a href="">Code (system)</a></span>,
-<span><a href="">Deployment</a></span>
+<span><a href="https://www.nature.com/articles/s41746-024-01022-x">Paper</a></span>,
+<span><a href="https://github.com/yuyuan871111/fast_eval_Parkinsonism">Code</a></span>,
+<span><a href="https://fastevalp.cmdm.tw/">Deployment</a></span>
 </td>
 </tr> 
 
