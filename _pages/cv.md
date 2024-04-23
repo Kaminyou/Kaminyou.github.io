@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, National Taiwan University, Currently
+* Ph.D. in Computer Science, National Taiwan University, Current
 * M.S. in Bioinformatics, National Taiwan University, 2021
 * Pharm.D. in Pharmacy, National Cheng Kung University, 2019
 
