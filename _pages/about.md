@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I serve as a research assistant in the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University and hold a role as a senior machine learning engineer at [aetherAI](https://www.aetherai.com/). I earned my M.S. degree in Bioinformatics from National Taiwan University, where I was advised by Prof. Yufeng Jane Tseng in the [CMDM Lab](https://www.cmdm.tw/) within the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw//?locale=en). Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University in 2019.
+I am a Ph.D. student in [Computer Science](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University, having entered directly from an M.S. program, and hold a role as a senior machine learning engineer at [aetherAI](https://www.aetherai.com/). I earned my M.S. degree in Bioinformatics from National Taiwan University, where I was advised by Prof. Yufeng Jane Tseng in the [CMDM Lab](https://www.cmdm.tw/) within the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw//?locale=en). Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University in 2019.
 
 My research interests focus on 2D/3D computer vision and its application in healthcare. I aim to enhance the **scalability of conventional computer vision algorithms** and explore **multimodal** and **semi-supervised learning** approaches in the digital health domain.
 
@@ -112,9 +112,11 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 
 ### Professional service
 - Conference Reviewer
-  - CVPR: 2023, 2024
+  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024
 - Journal Reviewer
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
+  - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
+  - SN Computer Science
 
 <!-- - **Ho, M. Y.**\*, Wu, M. S., & Wu, C. M. (2022). Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization. In *European Conference on Computer Vision* (***ECCV' 22***) (pp. 490-505). Cham: Springer Nature Switzerland. (\* corresponding author) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29)] [[code](https://github.com/Kaminyou/URUST)] [[page](https://kaminyou.com/URUST/)]
 

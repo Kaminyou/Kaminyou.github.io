@@ -11,22 +11,17 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, National Taiwan University, Currently
 * M.S. in Bioinformatics, National Taiwan University, 2021
 * Pharm.D. in Pharmacy, National Cheng Kung University, 2019
 
 Research experience
 ======
-* Feb. 2023 - Present: Journal Reviewer
-  * IEEE Transactions on Medical Imaging (Impact Factor: 10.6)
-
 * Feb. 2023 - Present: Research Assistant
   * Department of Computer Science and Information Engineering, National Taiwan University
     * Invented Dense Normalization for unpaired image-to-image translation at arbitrary resolutions
     * Designed a semi-supervised turning time segmentation algorithm incorporating 3D human pose estimation
     * Explored inpainting and semi-supervised learning techniques for applications in gait analysis
-
-* Nov. 2022 - Present: Conference Reviewer
-  * IEEE/CVF CVPR 2023, 2024
 
 * Sep. 2019 – Sep. 2021
   * Department of Computer Science and Information Engineering, National Taiwan University
@@ -38,6 +33,16 @@ Research experience
 * Jun. 2019 - Sep. 2019: Summer Research Intern
   * Institute of Information Science, Academia Sinica
     * Employed the RGB concept to craft a deep learning-based mutation prediction algorithm
+
+Professional service
+======
+* Conference Reviewer
+  * IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024
+* Journal Reviewer
+  * IEEE Transactions on Medical Imaging (IEEE TMI)
+  * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
+  * SN Computer Science
+
 
 Work experience
 ======
