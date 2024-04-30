@@ -11,8 +11,6 @@ I am a Ph.D. student in [Computer Science](https://www.csie.ntu.edu.tw//?locale=
 
 My research interests focus on 2D/3D computer vision and its application in healthcare. I aim to enhance the **scalability of conventional computer vision algorithms** and explore **multimodal** and **semi-supervised learning** approaches in the digital health domain.
 
-[**Curriculum vitae**](./files/CV_HMY.pdf).
-
 
 ## Publications
 
