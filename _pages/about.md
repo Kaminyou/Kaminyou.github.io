@@ -18,6 +18,22 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
+<img src="./files/dn-teaser.png" width="300"/> </td>
+  
+ 
+<td style="border-collapse: collapse; border: none;">
+<b>Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization.</b>
+<br>
+<b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng. <i><b>ECCV</b></i>, 2024
+<br>
+<span><a href="">Paper</a></span>,
+<span><a href="">Code</a></span>,
+</td>
+</tr> 
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
 <img src="./files/fasteval-teaser.png" width="300"/> </td>
   
  
