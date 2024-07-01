@@ -18,7 +18,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/dn-teaser.png" width="300"/> </td>
+<img src="./files/dn-teaser.jpg" width="300"/> </td>
   
  
 <td style="border-collapse: collapse; border: none;">
