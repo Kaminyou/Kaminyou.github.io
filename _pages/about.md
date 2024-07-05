@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Computer Science](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University, having entered directly from an M.S. program, and hold a role as a senior machine learning engineer at [aetherAI](https://www.aetherai.com/). I earned my M.S. degree in Bioinformatics from National Taiwan University, where I was advised by Prof. Yufeng Jane Tseng in the [CMDM Lab](https://www.cmdm.tw/) within the [Department of Computer Science and Information Engineering](https://www.csie.ntu.edu.tw//?locale=en). Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University in 2019.
+I am a Ph.D. student in [Computer Science](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University, having entered directly from an M.S. program, and hold a role as a senior machine learning engineer at [aetherAI](https://www.aetherai.com/). I earned my M.S. degree in Bioinformatics from National Taiwan University. Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University in 2019.
 
 My research interests focus on 2D/3D computer vision and its application in healthcare. I aim to enhance the **scalability of conventional computer vision algorithms** and explore **multimodal** and **semi-supervised learning** approaches in the digital health domain.
 
