@@ -14,29 +14,40 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 ## Publications
 
+### Conference
 <table style="border: none; border-collapse: collapse;" border="0">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="./files/dn-teaser.jpg" width="300"/> </td>
-  
- 
 <td style="border-collapse: collapse; border: none;">
 <b>Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization.</b>
 <br>
 <b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng. <i><b>ECCV</b></i>, 2024
 <br>
 <span><a href="">Paper</a></span>,
-<span><a href="">Code</a></span>,
+<span><a href="https://github.com/Kaminyou/Dense-Normalization">Code</a></span>,
 </td>
 </tr> 
 
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="./files/urust-teaser.gif" width="300"/> </td>
+<td style="border-collapse: collapse; border: none;">
+<b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization.</b>
+<br>
+<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <i><b>ECCV</b></i>, 2022, 490-505. (* corresponding author)
+<br>
+<span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span>, 
+<span><a href="https://kaminyou.com/URUST/">Project page</a></span>, 
+<span><a href="https://github.com/Kaminyou/URUST">Code</a></span>
+</td>
+</tr> 
 
+### Journals
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="./files/fasteval-teaser.png" width="300"/> </td>
-  
- 
 <td style="border-collapse: collapse; border: none;">
 <b>FastEval Parkinsonism: An instant deep learning–assisted video-based online system to automatically evaluate parkinsonian motor symptom using finger tapping.</b>
 <br>
@@ -53,7 +64,6 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="./files/pathoopengait-teaser.png" width="300"/> </td>
-
 <td style="border-collapse: collapse; border: none;">
 <b>Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait.</b>
 <br>
@@ -63,23 +73,6 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 <span><a href="https://github.com/Kaminyou/PathoOpenGait/tree/main/backend/algorithms/gait_basic">Code (model)</a></span>, 
 <span><a href="https://github.com/Kaminyou/PathoOpenGait">Code (system)</a></span>,
 <span><a href="https://pathoopengait.cmdm.tw/">Deployment</a></span>
-</td>
-</tr> 
-
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
-<img src="./files/urust-teaser.gif" width="300"/> </td>
-  
- 
-<td style="border-collapse: collapse; border: none;">
-<b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization.</b>
-<br>
-<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <i><b>ECCV</b></i>, 2022, 490-505. (* corresponding author)
-<br>
-<span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span>, 
-<span><a href="https://kaminyou.com/URUST/">Project page</a></span>, 
-<span><a href="https://github.com/Kaminyou/URUST">Code</a></span>
 </td>
 </tr> 
 
@@ -124,7 +117,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 
 </table>
 
-### Professional service
+## Professional service
 - Conference Reviewer
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024
 - Journal Reviewer
