@@ -15,12 +15,12 @@ My research interests focus on 2D/3D computer vision and its application in heal
 ## Publications
 
 ### Conference
-<table style="border: none; border-collapse: collapse;" border="0">
+<table style="border: none; border-collapse: collapse;" width="100%">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
-<img src="./files/dn-teaser.jpg" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="20%">
+<img src="./files/dn-teaser.jpg"/> </td>
+<td style="border-collapse: collapse; border: none;" width="80%">
 <b>Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization.</b>
 <br>
 <b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng. <i><b>ECCV</b></i>, 2024
@@ -31,9 +31,9 @@ My research interests focus on 2D/3D computer vision and its application in heal
 </tr> 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/urust-teaser.gif" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="80%">
 <b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization.</b>
 <br>
 <b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <i><b>ECCV</b></i>, 2022, 490-505. (* corresponding author)
@@ -46,12 +46,12 @@ My research interests focus on 2D/3D computer vision and its application in heal
 </table>
 
 ### Journal
-<table style="border: none; border-collapse: collapse;" border="0">
+<table style="border: none; border-collapse: collapse;" width="100%">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/fasteval-teaser.png" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="80%">
 <b>FastEval Parkinsonism: An instant deep learning–assisted video-based online system to automatically evaluate parkinsonian motor symptom using finger tapping.</b>
 <br>
 Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, and Yufeng Jane Tseng. <i><b>npj Digital Medicine</b></i>, 2024, 7(1), 1-13.
@@ -65,9 +65,9 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/pathoopengait-teaser.png" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="80%">
 <b>Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait.</b>
 <br>
 <b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng. <i><b>IEEE journal of biomedical and health informatics</b></i>, 2024, 28(2), 1066–1077.
@@ -81,9 +81,9 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/tcsd-teaser.png" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="80%">
 <b>Taiwan Controlled Substances Database.</b>
 <br>
 Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, Tien-Chueh Kuo, Yufeng Jane Tseng. <i><b>Journal of the Formosan Medical Association</b></i>, 2022, 121.12: 2649-2652.
@@ -94,9 +94,9 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/gpcr-teaser.png" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="80%">
 <b>PanGPCR: predictions for multiple targets, repurposing and side effects.</b>
 <br>
 Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng. <i><b>Bioinformatics</b></i>, 2021, 37.8: 1184-1186. (* equal contribution) 
@@ -107,9 +107,9 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 </tr> 
 
 <tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/eid-teaser.png" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;" width="80%">
 <b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system.</b>
 <br>
 <b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang. <i><b>TANET</b></i>, 2020, 1264-1269. (* corresponding author)
