@@ -14,7 +14,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 ## Publications
 
-### Conference
+### Conference Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
@@ -45,7 +45,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 </tr>
 </table>
 
-### Journal
+### Journal Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
 
 <tr style="border-collapse: separate; border-spacing:30em;">
