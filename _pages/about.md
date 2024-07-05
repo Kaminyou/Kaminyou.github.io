@@ -42,9 +42,12 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <span><a href="https://kaminyou.com/URUST/">Project page</a></span>, 
 <span><a href="https://github.com/Kaminyou/URUST">Code</a></span>
 </td>
-</tr> 
+</tr>
+</table>
 
 ### Journals
+<table style="border: none; border-collapse: collapse;" border="0">
+
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
 <img src="./files/fasteval-teaser.png" width="300"/> </td>
