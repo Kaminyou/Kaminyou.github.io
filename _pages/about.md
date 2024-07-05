@@ -23,7 +23,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b>Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization.</b>
 <br>
-<b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng. <i>European Conference on Computer Vision <b>(ECCV)</b></i>, 2024
+<b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng. <i>European Conference on Computer Vision (<b>ECCV</b>)</i>, 2024
 <br>
 <span><a href="">Paper</a></span>,
 <span><a href="https://github.com/Kaminyou/Dense-Normalization">Code</a></span>,
@@ -36,7 +36,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization.</b>
 <br>
-<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <i>European Conference on Computer Vision <b>(ECCV)</b></i>, 2022, 490-505. (* corresponding author)
+<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu. <i>European Conference on Computer Vision (<b>ECCV</b>)</i>, 2022, 490-505. (* corresponding author)
 <br>
 <span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span>, 
 <span><a href="https://kaminyou.com/URUST/">Project page</a></span>, 
