@@ -19,7 +19,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/dn-teaser.jpg" width="300"/> </td>
+<img src="./files/dn-teaser.jpg" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;">
 <b>Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization.</b>
 <br>
@@ -32,7 +32,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/urust-teaser.gif" width="300"/> </td>
+<img src="./files/urust-teaser.gif" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;">
 <b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization.</b>
 <br>
@@ -50,7 +50,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/fasteval-teaser.png" width="300"/> </td>
+<img src="./files/fasteval-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;">
 <b>FastEval Parkinsonism: An instant deep learning–assisted video-based online system to automatically evaluate parkinsonian motor symptom using finger tapping.</b>
 <br>
@@ -66,7 +66,7 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/pathoopengait-teaser.png" width="300"/> </td>
+<img src="./files/pathoopengait-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;">
 <b>Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait.</b>
 <br>
@@ -82,7 +82,7 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/tcsd-teaser.png" width="300"/> </td>
+<img src="./files/tcsd-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;">
 <b>Taiwan Controlled Substances Database.</b>
 <br>
@@ -95,7 +95,7 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/gpcr-teaser.png" width="300"/> </td>
+<img src="./files/gpcr-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;">
 <b>PanGPCR: predictions for multiple targets, repurposing and side effects.</b>
 <br>
@@ -108,7 +108,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="./files/eid-teaser.png" width="300"/> </td>
+<img src="./files/eid-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;">
 <b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system.</b>
 <br>
