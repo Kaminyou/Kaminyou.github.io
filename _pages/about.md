@@ -47,6 +47,20 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <span><a href="https://github.com/Kaminyou/URUST">Code</a></span>
 </td>
 </tr>
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;" width="20%">
+<img src="./files/eid-teaser.png" width="400"/> </td>
+<td style="border-collapse: collapse; border: none;" width="80%">
+<b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system.</b>
+<br>
+<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang (<b>* corresponding author</b>)
+<br>
+<i>TANET, 2020</i>
+<br>
+<span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>
+</td>
+</tr> 
 </table>
 
 ### Journal Papers
@@ -60,7 +74,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <br>
 Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, and Yufeng Jane Tseng
 <br>
-<i><b>npj Digital Medicine</b></i>, 2024, 7(1), 1-13
+<i>npj Digital Medicine</i>, 2024, 7(1), 1-13
 <br>
 <span><a href="https://www.nature.com/articles/s41746-024-01022-x">Paper</a></span>,
 <span><a href="https://github.com/yuyuan871111/fast_eval_Parkinsonism">Code</a></span>,
@@ -78,7 +92,7 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 <br>
 <b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng
 <br>
-<i><b>IEEE journal of biomedical and health informatics</b></i>, 2024, 28(2), 1066–1077
+<i>IEEE journal of biomedical and health informatics</i>, 2024, 28(2), 1066–1077
 <br>
 <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10349936">Paper</a></span>, 
 <span><a href="https://github.com/Kaminyou/PathoOpenGait/tree/main/backend/algorithms/gait_basic">Code (model)</a></span>, 
@@ -96,7 +110,7 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 <br>
 Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, Tien-Chueh Kuo, Yufeng Jane Tseng.
 <br>
-<i><b>Journal of the Formosan Medical Association</b></i>, 2022, 121.12: 2649-2652
+<i>Journal of the Formosan Medical Association</i>, 2022, 121.12: 2649-2652
 <br>
 <span><a href="https://www.sciencedirect.com/science/article/pii/S0929664622002534">Paper</a></span>
 </td>
@@ -111,26 +125,12 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 <br>
 Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng (* equal contribution) 
 <br>
-<i><b>Bioinformatics</b></i>, 2021, 37.8: 1184-1186
+<i>Bioinformatics</i>, 2021, 37.8: 1184-1186
 <br>
 <span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>,
 <span><a href="https://gpcrpanel.cmdm.tw/index.html">Deployment</a></span>
 </td>
-</tr> 
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;" width="20%">
-<img src="./files/eid-teaser.png" width="400"/> </td>
-<td style="border-collapse: collapse; border: none;" width="80%">
-<b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system.</b>
-<br>
-<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang (<b>* corresponding author</b>)
-<br>
-<i><b>TANET</b></i>, 2020, 1264-1269
-<br>
-<span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>
-</td>
-</tr> 
+</tr>
 
 </table>
 
