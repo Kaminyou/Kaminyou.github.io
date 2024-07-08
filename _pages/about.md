@@ -108,9 +108,9 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b>PanGPCR: predictions for multiple targets, repurposing and side effects.</b>
 <br>
-Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng (* equal contribution) 
+Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng 
 <br>
-<i>Bioinformatics</i>, 2021, 37.8: 1184-1186
+<i>Bioinformatics</i>, 2021, 37.8: 1184-1186 (* equal contribution) 
 <br>
 <span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>,
 <span><a href="https://gpcrpanel.cmdm.tw/index.html">Deployment</a></span>
@@ -127,9 +127,9 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system</b>
 <br>
-<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang (<b>* corresponding author</b>)
+<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang 
 <br>
-<i>TANET, 2020</i>
+<i>TANET, 2020</i> (<b>* corresponding author</b>)
 </td>
 </tr> 
 </table>
