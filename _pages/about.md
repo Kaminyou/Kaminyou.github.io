@@ -28,6 +28,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <i>ECCV, 2024</i>
 <br>
 <span><a href="https://arxiv.org/abs/2407.04245">Paper</a></span>,
+<span><a href="https://kaminyou.com/Dense-Normalization/">Project page</a></span>,
 <span><a href="https://github.com/Kaminyou/Dense-Normalization">Code</a></span>
 </td>
 </tr> 
