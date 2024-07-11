@@ -21,7 +21,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/dn-teaser.jpg"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b><a href="https://arxiv.org/abs/2407.04245">Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization</a></b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2407.04245">Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization</a></b>
 <br>
 <b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng
 <br>
