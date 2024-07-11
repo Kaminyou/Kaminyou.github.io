@@ -27,8 +27,8 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <br>
 <i>European Conference on Computer Vision (<b style="color: #CC0000;">ECCV</b>), 2024</i>
 <br>
-<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2407.04245">Paper</a></span>/
-<span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/Dense-Normalization/">Project page</a></span>/
+<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2407.04245">Paper</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/Dense-Normalization/">Project page</a></span> /
 <span><a style="color: #1771CF; text-decoration:none;" href="https://github.com/Kaminyou/Dense-Normalization">Code</a></span>
 </td>
 </tr>
@@ -41,11 +41,11 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <br>
 <b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu 
 <br>
-<i style="color: #CC0000;">ECCV, 2022</i> (<b>* corresponding author</b>)
+<i>European Conference on Computer Vision (<b style="color: #CC0000;">ECCV</b>), 2022</i> (<b>* corresponding author</b>)
 <br>
-<span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span>, 
-<span><a href="https://kaminyou.com/URUST/">Project page</a></span>,
-<span><a href="https://github.com/Kaminyou/URUST">Code</a></span>
+<span><a style="color: #1771CF; text-decoration:none;" href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/URUST/">Project page</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://github.com/Kaminyou/URUST">Code</a></span>
 </td>
 </tr>
 
