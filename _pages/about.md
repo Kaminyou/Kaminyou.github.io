@@ -37,7 +37,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/urust-teaser.gif" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization</b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization</a></b>
 <br>
 <b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu 
 <br>
@@ -58,11 +58,11 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/fasteval-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b>FastEval Parkinsonism: An instant deep learning–assisted video-based online system to automatically evaluate parkinsonian motor symptom using finger tapping</b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://www.nature.com/articles/s41746-024-01022-x">FastEval Parkinsonism: An instant deep learning–assisted video-based online system to automatically evaluate parkinsonian motor symptom using finger tapping</a></b>
 <br>
 Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, and Yufeng Jane Tseng
 <br>
-<i>npj Digital Medicine</i>, 2024, 7(1), 1-13
+<i style="color: #CC0000;">npj Digital Medicine</i>, 2024, 7(1), 1-13
 <br>
 <span><a href="https://www.nature.com/articles/s41746-024-01022-x">Paper</a></span>,
 <span><a href="https://github.com/yuyuan871111/fast_eval_Parkinsonism">Code</a></span>,
@@ -74,11 +74,11 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/pathoopengait-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b>Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait</b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10349936">Pathological Gait Analysis with an Open-Source Cloud-Enabled Platform Empowered by Semi-Supervised Learning - PathoOpenGait</a></b>
 <br>
 <b>Ming-Yang Ho</b>, Ming-Che Kuo, Ciao-Sin Chen, Ruey-Meei Wu, Ching-Chi Chuang, Chi-Sheng Shih, and Yufeng Jane Tseng
 <br>
-<i>IEEE journal of biomedical and health informatics</i>, 2024, 28(2), 1066–1077
+<i style="color: #CC0000;">IEEE journal of biomedical and health informatics</i>, 2024, 28(2), 1066–1077
 <br>
 <span><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10349936">Paper</a></span>, 
 <span><a href="https://github.com/Kaminyou/PathoOpenGait/tree/main/backend/algorithms/gait_basic">Code (model)</a></span>, 
@@ -92,11 +92,11 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/tcsd-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b>Taiwan Controlled Substances Database</b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://www.sciencedirect.com/science/article/pii/S0929664622002534">Taiwan Controlled Substances Database</a></b>
 <br>
 Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, Tien-Chueh Kuo, Yufeng Jane Tseng.
 <br>
-<i>Journal of the Formosan Medical Association</i>, 2022, 121.12: 2649-2652
+<i style="color: #CC0000;">Journal of the Formosan Medical Association</i>, 2022, 121.12: 2649-2652
 <br>
 <span><a href="https://www.sciencedirect.com/science/article/pii/S0929664622002534">Paper</a></span>
 </td>
@@ -107,11 +107,11 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/gpcr-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b>PanGPCR: predictions for multiple targets, repurposing and side effects.</b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">PanGPCR: predictions for multiple targets, repurposing and side effects</a></b>
 <br>
 Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng 
 <br>
-<i>Bioinformatics</i>, 2021, 37.8: 1184-1186 (* equal contribution) 
+<i style="color: #CC0000;">Bioinformatics</i>, 2021, 37.8: 1184-1186 (* equal contribution) 
 <br>
 <span><a href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span>,
 <span><a href="https://gpcrpanel.cmdm.tw/index.html">Deployment</a></span>
@@ -126,11 +126,11 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/eid-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b>Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system</b>
+<b><a style="color: #1771CF; text-decoration:none;" href="">Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system</a></b>
 <br>
 <b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang 
 <br>
-<i>TANET, 2020</i> (<b>* corresponding author</b>)
+<i style="color: #CC0000;">TANET, 2020</i> (<b>* corresponding author</b>)
 </td>
 </tr> 
 </table>
