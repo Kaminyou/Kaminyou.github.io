@@ -23,7 +23,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b style="color: #CC0000;">Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization</b>
 <br>
-<b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng
+<u><b>Ming-Yang Ho</b></u>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng
 <br>
 <i>ECCV, 2024</i>
 <br>
@@ -39,7 +39,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b style="color: #CC0000;">Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization</b>
 <br>
-<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu 
+<u><b>Ming-Yang Ho*</b></u>, Min-Sheng Wu, and Che-Ming Wu 
 <br>
 <i>ECCV, 2022</i> (<b>* corresponding author</b>)
 <br>
