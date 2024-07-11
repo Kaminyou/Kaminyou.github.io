@@ -32,7 +32,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <span><a style="color: #1771CF; text-decoration:none;" href="https://github.com/Kaminyou/Dense-Normalization">Code</a></span>
 </td>
 </tr>
-5
+
 <tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/urust-teaser.gif" width="400"/> </td>
