@@ -21,11 +21,11 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/dn-teaser.jpg"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b style="color: #CC0000;">Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization</b>
+<b>Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization</b>
 <br>
-<u><b>Ming-Yang Ho</b></u>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng
+<b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng
 <br>
-<i>ECCV, 2024</i>
+<i style="color: #CC0000;">ECCV, 2024</i>
 <br>
 <span><a href="https://arxiv.org/abs/2407.04245">Paper</a></span>,
 <span><a href="https://kaminyou.com/Dense-Normalization/">Project page</a></span>,
@@ -37,11 +37,11 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/urust-teaser.gif" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b style="color: #CC0000;">Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization</b>
+<b>Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization</b>
 <br>
-<u><b>Ming-Yang Ho*</b></u>, Min-Sheng Wu, and Che-Ming Wu 
+<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu 
 <br>
-<i>ECCV, 2022</i> (<b>* corresponding author</b>)
+<i style="color: #CC0000;">ECCV, 2022</i> (<b>* corresponding author</b>)
 <br>
 <span><a href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span>, 
 <span><a href="https://kaminyou.com/URUST/">Project page</a></span>,
