@@ -54,7 +54,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 ### Journal Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
 
-<tr style="border-collapse: separate; border-spacing:30em;">
+<tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/fasteval-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
@@ -70,7 +70,7 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 </td>
 </tr> 
 
-<tr style="border-collapse: separate; border-spacing:30em;">
+<tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/pathoopengait-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
@@ -88,7 +88,7 @@ Yu-Yuan Yang, <b>Ming-Yang Ho</b>, Chung-Hwei Tai, Ruey-Meei Wu, Ming-Che Kuo, a
 </tr> 
 
 
-<tr style="border-collapse: separate; border-spacing:30em;">
+<tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/tcsd-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
@@ -103,7 +103,7 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 </tr>
 
 
-<tr style="border-collapse: separate; border-spacing:30em;">
+<tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/gpcr-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
@@ -122,7 +122,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 
 ### Domestic Conference Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
-<tr style="border-collapse: separate; border-spacing:30em;">
+<tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/eid-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
