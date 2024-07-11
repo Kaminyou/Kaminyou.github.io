@@ -17,7 +17,7 @@ My research interests focus on 2D/3D computer vision and its application in heal
 ### Conference Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
 
-<tr style="border-collapse: separate; border-spacing:30em;">
+<tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/dn-teaser.jpg"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
@@ -32,8 +32,8 @@ My research interests focus on 2D/3D computer vision and its application in heal
 <span><a style="color: #1771CF; text-decoration:none;" href="https://github.com/Kaminyou/Dense-Normalization">Code</a></span>
 </td>
 </tr>
-
-<tr style="border-collapse: separate; border-spacing:30em;">
+5
+<tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/urust-teaser.gif" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
