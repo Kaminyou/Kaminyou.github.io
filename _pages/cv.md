@@ -17,6 +17,8 @@ Education
 
 Research experience
 ======
+* Aug. 2024 - Present: Visiting Research
+  * Computational Imaging and Vision Laboratory, National Institute of Informatics, Tokyo
 * Feb. 2023 - Present: Research Assistant
   * Department of Computer Science and Information Engineering, National Taiwan University
     * Invented Dense Normalization for unpaired image-to-image translation at arbitrary resolutions
@@ -38,6 +40,7 @@ Professional service
 ======
 * Conference Reviewer
   * IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024
+  * International Conference on Learning Representations (ICLR): 2025
 * Journal Reviewer
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
@@ -46,7 +49,7 @@ Professional service
 
 Work experience
 ======
-* Oct. 2021 – Present: Senior Machine Learning Engineer
+* Oct. 2021 – Aug. 2024: Senior Machine Learning Engineer
   * aetherAI
     * Led a research team to invent Kernelized Instance Normalization (published in *ECCV* 2022)
     * Directed a research team to demystify the challenges of semi-supervised object detection in pathological images

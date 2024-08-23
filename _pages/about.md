@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Computer Science](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University, having entered directly from an M.S. program, and hold a role as a senior machine learning engineer at [aetherAI](https://www.aetherai.com/). I earned my M.S. degree in Bioinformatics from National Taiwan University. Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University in 2019.
+I am a Ph.D. student in [Computer Science](https://www.csie.ntu.edu.tw//?locale=en) at National Taiwan University, having entered directly from an M.S. program, and I am now visiting visiting [Computational Imaging and Vision Laboratory](https://research.nii.ac.jp/pbv/) at National Institute of Informatics in Tokyo. I held a role as a Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/). I earned my M.S. degree in Bioinformatics from National Taiwan University. Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University in 2019.
 
 My research interests focus on 2D/3D computer vision and its application in healthcare. I aim to enhance the **scalability of conventional computer vision algorithms** and explore **multimodal** and **semi-supervised learning** approaches in the digital health domain.
 
@@ -138,6 +138,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 ## Professional service
 - Conference Reviewer
   - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024
+  - International Conference on Learning Representations (ICLR): 2025
 - Journal Reviewer
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
