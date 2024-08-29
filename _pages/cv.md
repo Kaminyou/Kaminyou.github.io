@@ -17,8 +17,6 @@ Education
 
 Research experience
 ======
-* Aug. 2024 - Present: Visiting Research
-  * Computational Imaging and Vision Laboratory, National Institute of Informatics, Tokyo
 * Feb. 2023 - Present: Research Assistant
   * Department of Computer Science and Information Engineering, National Taiwan University
     * Invented Dense Normalization for unpaired image-to-image translation at arbitrary resolutions
