@@ -15,7 +15,8 @@ Keywords: Computer Vision, Low-level Vision, Generative Model, Parallel Computin
 
 
 ## Publications
-* equal contribution; # corresponding author
+<p> * equal contribution; # corresponding author</p>
+
 ### Conference Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
 
