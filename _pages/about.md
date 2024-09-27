@@ -15,7 +15,7 @@ Keywords: Computer Vision, Low-level Vision, Generative Model, Parallel Computin
 
 
 ## Publications
-
+* equal contribution; # corresponding author
 ### Conference Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
 
@@ -41,9 +41,9 @@ Keywords: Computer Vision, Low-level Vision, Generative Model, Parallel Computin
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b><a style="color: #1771CF; text-decoration:none;" href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization</a></b>
 <br>
-<b>Ming-Yang Ho*</b>, Min-Sheng Wu, and Che-Ming Wu 
+<b>Ming-Yang Ho#</b>, Min-Sheng Wu, and Che-Ming Wu 
 <br>
-<i>European Conference on Computer Vision (<b style="color: #CC0000;">ECCV</b>), 2022</i> (<b>* corresponding author</b>)
+<i>European Conference on Computer Vision (<b style="color: #CC0000;">ECCV</b>), 2022</i> 
 <br>
 <span><a style="color: #1771CF; text-decoration:none;" href="https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29">Paper</a></span> /
 <span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/URUST/">Project page</a></span> /
@@ -113,7 +113,7 @@ Yung-Wen Huang, Olivia A. Lin, Bo-Han Su, Ping-Han Hsieh, <b>Ming-Yang Ho</b>, T
 <br>
 Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yufeng Jane Tseng 
 <br>
-<i>Bioinformatics</i>, 2021, 37.8: 1184-1186 (* equal contribution) 
+<i>Bioinformatics</i>, 2021, 37.8: 1184-1186 
 <br>
 <span><a style="color: #1771CF; text-decoration:none;" href="https://academic.oup.com/bioinformatics/article/37/8/1184/5904266">Paper</a></span> /
 <span><a style="color: #1771CF; text-decoration:none;" href="https://gpcrpanel.cmdm.tw/index.html">Deployment</a></span>
@@ -130,9 +130,9 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b><a style="color: #1771CF; text-decoration:none;" href="">Potential Security and Privacy Issues in Novel Taiwanese National Electronic Identification system</a></b>
 <br>
-<b>Ming-Yang Ho*</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang 
+<b>Ming-Yang Ho#</b>, Jing-Jie Wang, You-Shin Tsai, Tang-Wei Wang 
 <br>
-<i>TANET, 2020</i> (<b>* corresponding author</b>)
+<i>TANET, 2020</i> 
 </td>
 </tr> 
 </table>
