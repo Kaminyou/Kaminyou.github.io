@@ -13,6 +13,10 @@ My research interests focus on 2D/3D computer vision and its application in heal
 
 Keywords: Computer Vision, Low-level Vision, Generative Model, Parallel Computing, Distributed Computing
 
+## News
+<p><br>[Oct. 2024]</br> I was honored as a Distinguished Reviewer (Silver Level) by IEEE TMI.</p>
+
+<p><br>[Jul. 2024]</br> One first-author paper was accepted by ECCV 2024.</p>
 
 ## Publications
 <p> * equal contribution; # corresponding author</p>

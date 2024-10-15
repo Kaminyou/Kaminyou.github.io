@@ -44,6 +44,9 @@ Professional service
   * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
   * SN Computer Science
 
+Honor
+======
+* Oct. 2024: IEEE TMI Distinguished Reviewer (Silver Level)
 
 Work experience
 ======
