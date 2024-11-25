@@ -28,13 +28,13 @@ Keywords: Computer Vision, Low-level Vision, Generative Model, Parallel Computin
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/dn-teaser.jpg"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2407.04245">Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization</a></b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://link.springer.com/chapter/10.1007/978-3-031-72995-9_18">Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization</a></b>
 <br>
 <b>Ming-Yang Ho</b>, Che-Ming Wu, Min-Sheng Wu, and Yufeng Jane Tseng
 <br>
 <i>European Conference on Computer Vision (<b style="color: #CC0000;">ECCV</b>), 2024</i>
 <br>
-<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2407.04245">Paper</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://link.springer.com/chapter/10.1007/978-3-031-72995-9_18">Paper</a></span> /
 <span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/Dense-Normalization/">Project page</a></span> /
 <span><a style="color: #1771CF; text-decoration:none;" href="https://github.com/Kaminyou/Dense-Normalization">Code</a></span>
 </td>
