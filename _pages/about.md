@@ -150,6 +150,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 - Journal Reviewer
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
+  - Journal of NeuroEngineering and Rehabilitation (impact factor: 5.2)
   - Scientific Data (impact factor: 5.8)
   - SN Computer Science
 
