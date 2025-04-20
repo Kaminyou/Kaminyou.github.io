@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. student in at National Taiwan University, having entered directly from an CS M.S. program, and I am now visiting [Computational Imaging and Vision Laboratory](https://research.nii.ac.jp/pbv/) at National Institute of Informatics in Tokyo advised by Prof. [Imari Sato](https://research.nii.ac.jp/~imarik/). Previously, I held a role as a Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/). Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University (I was admitted to a CS B.S. program at NTU in the same year).
+I am a CS Ph.D. student in at National Taiwan University, having entered directly from a CS M.S. program, and I am now visiting [Computational Imaging and Vision Laboratory](https://research.nii.ac.jp/pbv/) at National Institute of Informatics in Tokyo advised by Prof. [Imari Sato](https://research.nii.ac.jp/~imarik/). Previously, I held a role as a Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/). Prior to that, I obtained my Pharm.D. degree in Pharmacy from National Cheng Kung University (I was admitted to a CS B.S. program at NTU in the same year).
 
 My research interests focus on 2D/3D computer vision. I aim to enhance the **efficiency and scalability of various computer vision algorithms**.
 
