@@ -14,7 +14,7 @@ My research interests focus on 2D/3D computer vision. I aim to enhance the **eff
 Keywords: **Computer Vision**, **Low-level Vision**, **Efficient Machine Learning**, **Parallel Computing**
 
 ## News
-<p><b>[May. 2025]</b> I was honored as an Outstanding Reviewer in CVPR 2025.</p>
+<p><b>[May. 2025]</b> I was honored as an <a href=https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee">Outstanding Reviewer</a> at CVPR 2025.</p>
 
 <p><b>[Oct. 2024]</b> I was honored as a Distinguished Reviewer (Silver Level) by IEEE TMI.</p>
 
@@ -146,7 +146,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 
 ## Professional service
 - Conference Reviewer
-  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024, 2025
+  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024, 2025 (Outstanding Reviewer Award)
   - International Conference on Computer Vision (ICCV): 2025
   - International Conference on Learning Representations (ICLR): 2025
   - Conference on Neural Information Processing System (NeurIPS): 2025
