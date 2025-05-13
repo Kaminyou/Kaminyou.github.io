@@ -14,6 +14,8 @@ My research interests focus on 2D/3D computer vision. I aim to enhance the **eff
 Keywords: **Computer Vision**, **Low-level Vision**, **Efficient Machine Learning**, **Parallel Computing**
 
 ## News
+<p><b>[May. 2025]</b> I was honored as an Outstanding Reviewer in CVPR 2025.</p>
+
 <p><b>[Oct. 2024]</b> I was honored as a Distinguished Reviewer (Silver Level) by IEEE TMI.</p>
 
 <p><b>[Jul. 2024]</b> One first-author paper was accepted by ECCV 2024.</p>
