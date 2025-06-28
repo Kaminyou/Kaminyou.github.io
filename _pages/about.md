@@ -159,6 +159,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
   - Journal of NeuroEngineering and Rehabilitation (impact factor: 5.2)
   - Scientific Data (impact factor: 5.8)
+  - npj Artificial Intelligence
   - SN Computer Science
 
 <!-- - **Ho, M. Y.**\*, Wu, M. S., & Wu, C. M. (2022). Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization. In *European Conference on Computer Vision* (***ECCV' 22***) (pp. 490-505). Cham: Springer Nature Switzerland. (\* corresponding author) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_29)] [[code](https://github.com/Kaminyou/URUST)] [[page](https://kaminyou.com/URUST/)]
