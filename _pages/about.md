@@ -71,7 +71,7 @@ Keywords: **Computer Vision**, **Low-level Vision**, **Efficient Machine Learnin
 <td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/schizo-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
-<b><a style="color: #1771CF; text-decoration:none;" href="https://www.nature.com/articles/s41746-024-01022-x">FastEval Analyzing Generative AI and Machine Learning in Auto-Assessing Schizophrenia’s Negative Symptoms</a></b>
+<b><a style="color: #1771CF; text-decoration:none;" href="https://doi.org/10.1093/schbul/sbaf102">Analyzing Generative AI and Machine Learning in Auto-Assessing Schizophrenia’s Negative Symptoms</a></b>
 <br>
 Chih-Min Liu, Yi-Hsuan Chan, <b>Ming-Yang Ho</b>, Chen-Chung Liu, Ming-Hsuan Lu, Yi-An Liao, Ming-Hsien Hsieh, and Yufeng Jane Tseng
 <br>
