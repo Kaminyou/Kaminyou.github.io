@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming CS PhD student at Duke University, transferred from a CS PhD program at National Taiwan University (entered directly from a CS MS program). I was advised by Prof. [Yufeng Jane Tseng](https://www.csie.ntu.edu.tw/zh_tw/member/Faculty/%E6%9B%BE%E5%AE%87%E9%B3%B3-YF-Tseng-95281407) and Prof. [Imari Sato](https://research.nii.ac.jp/~imarik/). Previously, I held a role as a Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/). Prior to that, I obtained my PharmD degree in Pharmacy from National Cheng Kung University (I was admitted to a CS BS program at NTU in the same year).
+I am a CS PhD student at Duke University. I was advised by Prof. [Yufeng Jane Tseng](https://www.csie.ntu.edu.tw/zh_tw/member/Faculty/%E6%9B%BE%E5%AE%87%E9%B3%B3-YF-Tseng-95281407) and Prof. [Imari Sato](https://research.nii.ac.jp/~imarik/). Previously, I held a role as a Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/). Prior to that, I obtained my PharmD degree in Pharmacy from National Cheng Kung University (I was admitted to a CS BS program at NTU in the same year).
 
 My research interests focus on 2D/3D computer vision. I aim to enhance the **efficiency and scalability of various computer vision algorithms**.
 
