@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming-Yang Ho"
+title                    : "Ming-Yang Ho (何明洋)"
 title_separator          : "-"
-name                     : &name "Ming-Yang Ho (何明洋)"
+name                     : &name "Ming-Yang Ho"
 description              : &description "CS PhD Student at Duke University"
 url                      : https://kaminyou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
