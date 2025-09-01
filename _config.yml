@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ming-Yang Ho"
 title_separator          : "-"
 name                     : &name "Ming-Yang Ho"
-description              : &description "Senior Machine Learning Engineer at aetherAI"
+description              : &description "CS PhD Student at Duke University"
 url                      : https://kaminyou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kaminyou.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming-Yang Ho"
+  name             : "Ming-Yang Ho (何明洋)"
   avatar           : "IMG_9374.jpg"
-  bio              : "CS Ph.D. student at Duke University"
-  location         : "Taipei, Taiwan"
+  bio              : "CS Ph.D. Student @ Duke University"
+  location         : "NC, United States"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.tw/citations?user=QOHrBUYAAAAJ"
