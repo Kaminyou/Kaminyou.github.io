@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. student at Duke University, advised by Prof. Alberto Bartesaghi, working on computer vision research. Prior to Duke, I was advised by Prof. Yufeng Jane Tseng at National Taiwan University (NTU) and Prof. Imari Sato at the National Institute of Informatics (NII). My industry experience includes roles as a Software Engineer (PhD Intern) at [Google](https://google.com/), Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/), and Data Engineer (Intern) at [Dcard](http://dcard.tw/). I hold an M.S. in Bioinformatics from NTU and a Pharm.D. in Pharmacy from National Cheng Kung University.
+I am a CS Ph.D. student at Duke University, advised by Prof. Alberto Bartesaghi, working on computer vision research. Prior to Duke, I was advised by Prof. Yufeng Jane Tseng at National Taiwan University (NTU) and Prof. Imari Sato at the National Institute of Informatics (NII). My industry experience includes roles as a Software Engineer (PhD Intern) at [Google](https://google.com/), Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/), and Data Engineer (Intern) at [Dcard](http://dcard.tw/). I hold an M.S. in Bioinformatics from NTU and a Pharm.D. in Pharmacy from National Cheng Kung University (I was also admitted CS B.S. program at NTU in the same year).
 
 My research interests focus on 2D/3D computer vision. I aim to enhance the **efficiency and scalability of various computer vision algorithms**.
 
