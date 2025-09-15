@@ -163,7 +163,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 
 ## Professional service
 - Conference Program Committee / Reviewer
-  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024, 2025 (Outstanding Reviewer Award)
+  - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2023, 2024, 2025 (<b style="color: #CC0000;">Outstanding Reviewer Award</b>), 2026
   - International Conference on Computer Vision (ICCV): 2025
   - International Conference on Learning Representations (ICLR): 2025
   - Conference on Neural Information Processing System (NeurIPS): 2025
