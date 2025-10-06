@@ -171,6 +171,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
   - Artificial Intelligence Review (impact factor: 13.9)
+  - npj Parkinson's Disease (impact factor: 8.2)
   - Journal of NeuroEngineering and Rehabilitation (impact factor: 5.2)
   - Scientific Data (impact factor: 5.8)
   - npj Artificial Intelligence
