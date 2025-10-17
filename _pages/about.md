@@ -14,7 +14,9 @@ My research interests focus on 2D/3D computer vision. I aim to enhance the **eff
 Keywords: **Computer Vision**, **Low-level Vision**, **Efficient Machine Learning**, **Parallel Computing**
 
 ## News
-<p><b>[May. 2025]</b> I was honored as an <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee">Outstanding Reviewer</a> at CVPR 2025.</p>
+<p><b>[Oct. 2025]</b> I was honored as an <a href="">Top Reviewer (~8%)</a> at NeurIPS 2025.</p>
+
+<p><b>[May. 2025]</b> I was honored as an <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee">Outstanding Reviewer (~5%)</a> at CVPR 2025.</p>
 
 <p><b>[Mar. 2025]</b> I will join Google as a SWE PhD Intern this Summer.</p>
 
@@ -163,10 +165,10 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 
 ## Professional service
 - Conference Program Committee / Reviewer
-  - CVPR: 2024, 2025 (<b style="color: #CC0000;">Outstanding Reviewer Award</b>), 2026
+  - CVPR: 2024, 2025 (<b style="color: #CC0000;">Outstanding Reviewer Award (~5%)</b>), 2026
   - ICCV: 2025
   - ICLR: 2025
-  - NeurIPS: 2025
+  - NeurIPS: 2025 (<b style="color: #CC0000;">Top Reviewer Award (~8%)</b>)
 - Journal Reviewer
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
