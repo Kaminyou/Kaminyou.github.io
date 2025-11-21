@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. student at Duke University, advised by Prof. Alberto Bartesaghi, focusing on computer vision and algorithm development for 2D and 3D cryo-EM/ET data. Prior to Duke, I was advised by Prof. Yufeng Jane Tseng at National Taiwan University (NTU) and Prof. Imari Sato at the National Institute of Informatics (NII). My industry experience includes roles as a Software Engineer (PhD Intern) at [Google](https://google.com/), Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/), and Data Engineer (Intern) at [Dcard](http://dcard.tw/). I hold an M.S. in Bioinformatics from NTU and a Pharm.D. in Pharmacy from National Cheng Kung University (I was also admitted CS B.S. program at NTU in the same year).
+I am a CS Ph.D. student at Duke University, advised by Prof. Alberto Bartesaghi, focusing on **efficient computer vision** and **machine learning** algorithm development for 2D and 3D cryo-EM/ET imaging data. Prior to Duke, I was advised by Prof. Yufeng Jane Tseng at National Taiwan University (NTU) and Prof. Imari Sato at the National Institute of Informatics (NII). My industry experience includes roles as a Software Engineer (PhD Intern) at [Google](https://google.com/), Senior Machine Learning Engineer at [aetherAI](https://www.aetherai.com/), and Data Engineer (Intern) at [Dcard](http://dcard.tw/). I hold an M.S. in Bioinformatics from NTU and a Pharm.D. in Pharmacy from National Cheng Kung University (I was also admitted CS B.S. program at NTU in the same year).
 
-My research interests focus on 2D/3D computer vision. I aim to enhance the **efficiency and scalability of various computer vision algorithms**.
+My research interests focus on 2D/3D computer vision. I aim to enhance the **efficiency and scalability of various computer vision / machine learning algorithms**.
 
-Keywords: **Computer Vision**, **Low-level Vision**, **Efficient Machine Learning**, **Parallel Computing**
+Keywords: **Computer Vision**, **Efficient Machine Learning**, **Parallel Computing**, **Low-level Vision**
 
 ## News
 <p><b>[Oct. 2025]</b> I was honored as an <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">Top Reviewer (~8%)</a> at NeurIPS 2025.</p>
