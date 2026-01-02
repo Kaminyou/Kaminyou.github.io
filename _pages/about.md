@@ -11,7 +11,7 @@ I am a CS Ph.D. student at Duke University, advised by Prof. Alberto Bartesaghi,
 
 My research interests focus on 2D/3D computer vision. I aim to enhance the **efficiency and scalability of various computer vision / machine learning algorithms**.
 
-Keywords: **Computer Vision**, **Efficient Machine Learning**, **Parallel Computing**, **Low-level Vision**
+Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel Computing**, **Low-level Vision**
 
 ## News
 <p><b>[Oct. 2025]</b> I was honored as an <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">Top Reviewer (~8%)</a> at NeurIPS 2025.</p>
