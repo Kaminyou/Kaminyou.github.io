@@ -166,6 +166,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
 ## Professional service
 - Conference Program Committee / Reviewer
   - CVPR: 2024, 2025 (<b style="color: #CC0000;">Outstanding Reviewer Award (~5%)</b>), 2026
+  - ECCV: 2026
   - ICCV: 2025
   - ICLR: 2025
   - NeurIPS: 2025 (<b style="color: #CC0000;">Top Reviewer Award (~8%)</b>)
