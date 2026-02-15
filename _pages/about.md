@@ -171,6 +171,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - ICLR: 2025
   - NeurIPS: 2025 (<b style="color: #CC0000;">Top Reviewer Award (~8%)</b>)
   - BMCV: 2026
+  - MICCAI: 2026
 - Journal Reviewer
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
