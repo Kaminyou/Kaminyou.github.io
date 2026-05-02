@@ -69,6 +69,21 @@ Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel 
 
 <tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
+<img src="./files/movement-anywhere-teaser.jpg" width="400"/> </td>
+<td style="border-collapse: collapse; border: none;" width="80%">
+<b><a style="color: #1771CF; text-decoration:none;" href="https://doi.org/10.1093/schbul/sbaf102">Movement Anywhere: An Open-Source Distributed 2D Video-Based Movement Analysis Platform Empowered by Active Learning</a></b>
+<br>
+<b>Ming-Yang Ho</b> and Yufeng Jane Tseng
+<br>
+<i>IEEE journal of biomedical and health informatics</i>, 2026
+<br>
+<span><a style="color: #1771CF; text-decoration:none;" href="">Paper</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://github.com/Kaminyou/Movement-Anywhere">Code</a></span>
+</td>
+</tr> 
+
+<tr style="border-collapse: separate; border-spacing:50em;">
+<td style="border-collapse: collapse; border: none;" width="20%">
 <img src="./files/schizo-teaser.png" width="400"/> </td>
 <td style="border-collapse: collapse; border: none;" width="80%">
 <b><a style="color: #1771CF; text-decoration:none;" href="https://doi.org/10.1093/schbul/sbaf102">Analyzing Generative AI and Machine Learning in Auto-Assessing Schizophrenia’s Negative Symptoms</a></b>
