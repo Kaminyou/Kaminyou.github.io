@@ -197,6 +197,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - npj Parkinson's Disease (impact factor: 8.2)
   - Journal of NeuroEngineering and Rehabilitation (impact factor: 5.2)
   - Scientific Data (impact factor: 5.8)
+  - BMC Medical Informatics and Decision Making
   - npj Artificial Intelligence
   - Scientific Reports
   - SN Computer Science
