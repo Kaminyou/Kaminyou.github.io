@@ -16,7 +16,7 @@ Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel 
 ## News
 <p><b>[May. 2026]</b> One first-author paper, <a href="https://ieeexplore.ieee.org/document/11508122/">Movement Anywhere</a>, was accepted by IEEE JBHI.</p>
 
-<p><b>[Oct. 2025]</b> I was honored as an <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">Top Reviewer (~8%)</a> at NeurIPS 2025.</p>
+<p><b>[Oct. 2025]</b> I was honored as a <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">Top Reviewer (~8%)</a> at NeurIPS 2025.</p>
 
 <p><b>[May. 2025]</b> I was honored as an <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee">Outstanding Reviewer (~5%)</a> at CVPR 2025.</p>
 
@@ -187,7 +187,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - ICCV: 2025
   - ICLR: 2025
   - NeurIPS: 2025 (<b style="color: #CC0000;">Top Reviewer Award (~8%)</b>), 2026
-  - BMCV: 2026
+  - BMVC: 2026
   - MICCAI: 2026
 - Journal Reviewer
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
