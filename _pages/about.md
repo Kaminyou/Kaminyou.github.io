@@ -187,6 +187,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - ICCV: 2025
   - ICLR: 2025
   - NeurIPS: 2025 (<b style="color: #CC0000;">Top Reviewer Award (~8%)</b>), 2026
+  - AAAI: 2027
   - BMVC: 2026
   - MICCAI: 2026
 - Journal Reviewer
