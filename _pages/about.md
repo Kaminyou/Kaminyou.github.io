@@ -191,6 +191,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - BMVC: 2026
   - MICCAI: 2026
 - Journal Reviewer
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (impact factor: 20.4)
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
   - Nature Communications (impact factor: 15.7)
