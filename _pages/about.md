@@ -194,6 +194,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (impact factor: 20.4)
   - IEEE Transactions on Medical Imaging (impact factor: 10.6)
   - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
+  - npj Digital Medicine (impact factor: 18.0)
   - Nature Communications (impact factor: 15.7)
   - Artificial Intelligence Review (impact factor: 13.9)
   - npj Parkinson's Disease (impact factor: 8.2)
