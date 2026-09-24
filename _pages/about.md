@@ -14,6 +14,8 @@ My research interests focus on 2D/3D computer vision. I aim to enhance the **eff
 Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel Computing**, **Low-level Vision**
 
 ## News
+<p><b>[Sep. 2026]</b> One first-author paper, <a href="https://arxiv.org/abs/2604.10766">FullTilt</a>, was accepted to NeurIPS 2026.</p>
+
 <p><b>[May. 2026]</b> One first-author paper, <a href="https://ieeexplore.ieee.org/document/11508122/">Movement Anywhere</a>, was accepted by IEEE JBHI.</p>
 
 <p><b>[Oct. 2025]</b> I was honored as a <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">Top Reviewer (~8%)</a> at NeurIPS 2025.</p>
@@ -24,13 +26,30 @@ Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel 
 
 <p><b>[Oct. 2024]</b> I was honored as a Distinguished Reviewer (Silver Level) by IEEE TMI.</p>
 
-<p><b>[Jul. 2024]</b> One first-author paper, <a href="https://link.springer.com/chapter/10.1007/978-3-031-72995-9_18">Dense Normalization</a> was accepted by ECCV 2024.</p>
+<p><b>[Jul. 2024]</b> One first-author paper, <a href="https://link.springer.com/chapter/10.1007/978-3-031-72995-9_18">Dense Normalization</a> was accepted to ECCV 2024.</p>
 
 ## Publications
 <p> * equal contribution; # corresponding author</p>
 
 ### Conference Papers
 <table style="border: none; border-collapse: collapse;" width="100%">
+
+<tr style="border-collapse: separate; border-spacing:50em;">
+<td style="border-collapse: collapse; border: none;" width="20%">
+<img src="./files/fulltilt-teaser.jpg"/> </td>
+<td style="border-collapse: collapse; border: none;" width="80%">
+<b><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections
+</a></b>
+<br>
+<b>Ming-Yang Ho</b> and Alberto Bartesaghi
+<br>
+<i>Conference on Neural Information Processing Systems (<b style="color: #CC0000;">NeurIPS</b>), 2026</i>
+<br>
+<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">Paper</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">Project page</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">Code</a></span>
+</td>
+</tr>
 
 <tr style="border-collapse: separate; border-spacing:50em;">
 <td style="border-collapse: collapse; border: none;" width="20%">
