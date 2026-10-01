@@ -21,12 +21,12 @@ Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel 
 <p><b>[Oct. 2025]</b> I was honored as a <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">Top Reviewer (~8%)</a> at NeurIPS 2025.</p>
 
 <p><b>[May. 2025]</b> I was honored as an <a href="https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee">Outstanding Reviewer (~5%)</a> at CVPR 2025.</p>
-
+<!-- 
 <p><b>[Mar. 2025]</b> I will join Google as a SWE PhD Intern this Summer.</p>
 
 <p><b>[Oct. 2024]</b> I was honored as a Distinguished Reviewer (Silver Level) by IEEE TMI.</p>
 
-<p><b>[Jul. 2024]</b> One first-author paper, <a href="https://link.springer.com/chapter/10.1007/978-3-031-72995-9_18">Dense Normalization</a> was accepted to ECCV 2024.</p>
+<p><b>[Jul. 2024]</b> One first-author paper, <a href="https://link.springer.com/chapter/10.1007/978-3-031-72995-9_18">Dense Normalization</a> was accepted to ECCV 2024.</p> -->
 
 ## Publications
 <p> * equal contribution; # corresponding author</p>
@@ -46,8 +46,8 @@ Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel 
 <i>Conference on Neural Information Processing Systems (<b style="color: #CC0000;">NeurIPS</b>), 2026</i>
 <br>
 <span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">Paper</a></span> /
-<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">Project page</a></span> /
-<span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">Code</a></span>
+<span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/FullTilt/">Project page</a></span> /
+<span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/FullTilt/">Code</a></span>
 </td>
 </tr>
 
@@ -210,15 +210,15 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - BMVC: 2026
   - MICCAI: 2026
 - Journal Reviewer
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence (impact factor: 20.4)
-  - IEEE Transactions on Medical Imaging (impact factor: 10.6)
-  - IEEE Journal of Biomedical and Health Informatics (impact factor: 7.7)
-  - npj Digital Medicine (impact factor: 18.0)
-  - Nature Communications (impact factor: 15.7)
-  - Artificial Intelligence Review (impact factor: 13.9)
-  - npj Parkinson's Disease (impact factor: 8.2)
-  - Journal of NeuroEngineering and Rehabilitation (impact factor: 5.2)
-  - Scientific Data (impact factor: 5.8)
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - IEEE Transactions on Medical Imaging
+  - IEEE Journal of Biomedical and Health Informatics
+  - npj Digital Medicine
+  - Nature Communications
+  - Artificial Intelligence Review
+  - npj Parkinson's Disease
+  - Journal of NeuroEngineering and Rehabilitation
+  - Scientific Data
   - BMC Medical Informatics and Decision Making
   - npj Artificial Intelligence
   - Scientific Reports
