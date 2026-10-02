@@ -47,7 +47,7 @@ Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel 
 <br>
 <span><a style="color: #1771CF; text-decoration:none;" href="https://arxiv.org/abs/2604.10766">Paper</a></span> /
 <span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/FullTilt/">Project page</a></span> /
-<span><a style="color: #1771CF; text-decoration:none;" href="https://kaminyou.com/FullTilt/">Code</a></span>
+<span><a style="color: #1771CF; text-decoration:none;" href="https://github.com/Kaminyou/FullTilt">Code</a></span>
 </td>
 </tr>
 
