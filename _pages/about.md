@@ -14,6 +14,8 @@ My research interests focus on 2D/3D computer vision. I aim to enhance the **eff
 Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel Computing**, **Low-level Vision**
 
 ## News
+<p><b>[Oct. 2026]</b> I was honored as a <a href="">Top Reviewer</a> at NeurIPS 2026.</p>
+
 <p><b>[Sep. 2026]</b> One first-author paper, <a href="https://arxiv.org/abs/2604.10766">FullTilt</a>, was accepted to NeurIPS 2026.</p>
 
 <p><b>[May. 2026]</b> One first-author paper, <a href="https://ieeexplore.ieee.org/document/11508122/">Movement Anywhere</a>, was accepted by IEEE JBHI.</p>
@@ -205,7 +207,7 @@ Lu-Chi Liu*, <b>Ming-Yang Ho*</b>, Bo-Han Su, San-Yuan Wang, Ming-Tsung Hsu, Yuf
   - ECCV: 2026
   - ICCV: 2025
   - ICLR: 2025
-  - NeurIPS: 2025 (<b style="color: #CC0000;">Top Reviewer Award (~8%)</b>), 2026
+  - NeurIPS: 2025 (<b style="color: #CC0000;">Top Reviewer Award (~8%)</b>), 2026(<b style="color: #CC0000;">Top Reviewer Award</b>)
   - AAAI: 2027
   - BMVC: 2026
   - MICCAI: 2026
