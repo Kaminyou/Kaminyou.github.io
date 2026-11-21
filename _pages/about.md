@@ -14,7 +14,7 @@ My research interests focus on 2D/3D computer vision. I aim to enhance the **eff
 Keywords: **2D/3D Computer Vision**, **Efficient Machine Learning**, **Parallel Computing**, **Low-level Vision**
 
 ## News
-<p><b>[Oct. 2026]</b> I was honored as a <a href="">Top Reviewer</a> at NeurIPS 2026.</p>
+<p><b>[Oct. 2026]</b> I was honored as a <a href="https://neurips.cc/Conferences/2026/ProgramCommittee#main-reviewer">Top Reviewer</a> at NeurIPS 2026.</p>
 
 <p><b>[Sep. 2026]</b> One first-author paper, <a href="https://arxiv.org/abs/2604.10766">FullTilt</a>, was accepted to NeurIPS 2026.</p>
 
